@@ -1,4 +1,4 @@
-<img src="img/1.png" alt="">
+<img src="https://raw.githubusercontent.com/kh1012/test-plugin/main/plugin/kh1012/1000/x/img/1.png" alt="" />
 
 <br />
 
@@ -14,7 +14,7 @@ It is a long established fact that a reader will be distracted by the readable c
 
 <br />
 
-<img src="img/1.png" alt="">
+<img src="https://raw.githubusercontent.com/kh1012/test-plugin/main/plugin/kh1012/1000/x/img/1.png" alt="" />
 
 <br />
 
