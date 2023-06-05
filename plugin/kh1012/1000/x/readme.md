@@ -14,8 +14,7 @@ It is a long established fact that a reader will be distracted by the readable c
 
 <br />
 
-<img src="https://raw.githubusercontent.com/kh1012/test-plugin/main/plugin/kh1012/1000/x/img/1.png" width="100%" alt="" />
-
+![](https://raw.githubusercontent.com/kh1012/test-plugin/main/plugin/kh1012/1000/x/img/1.png)
 <br />
 
 ## 1Depth Title Area
